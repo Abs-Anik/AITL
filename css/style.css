@@ -395,3 +395,8 @@
     border: #1F4393 !important;
     box-shadow: 0 0 0 0.25rem #fff;
 }
+
+.custom-text-bold{
+    color:#1F4393;
+    font-weight: bold;
+}
